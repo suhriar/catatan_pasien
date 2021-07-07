@@ -65,7 +65,7 @@ CREATE TABLE `pegawai` (
 --
 
 INSERT INTO `pegawai` (`id_pegawai`, `nama_pegawai`, `nip`, `password`) VALUES
-(1, 'Namanya Admin', '12345', '12345');
+(1, 'Namanya Admin', '54321', '12345');
 
 -- --------------------------------------------------------
 
